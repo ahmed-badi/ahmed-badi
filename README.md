@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AHMED BADI
 - 👀 I’m interested in Computer Science , Mathematics and AI ..
 - 🌱 I’m currently learning Maths and Data Science 
-- 💞️ I’m seeking an internship for 4 to 5 mounths from March/April 
+- 💞️ I’m seeking an internship for 4 to 5 months from March/April 
 - 📫 How to reach me ?
 -  my school email          ----->   Ahmed.BADI@etu.uca.fr
 -  my personal email        ----->   ahmedbadi905@gmail.com
