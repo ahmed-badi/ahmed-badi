@@ -303,8 +303,8 @@ Je suis toujours ouvert à de nouvelles opportunités, collaborations et discuss
 <br/><br/>
 
 📧 **Email** : ahmedbadi905@gmail.com  
-📱 **Téléphone** : 0773 01 90 83  
-🌍 **Localisation** : Algeria
+📱 **Téléphone** : +33 7 73 01 90 83  
+🌍 **Localisation** : France
 
 </div>
 
