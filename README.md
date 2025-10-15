@@ -39,7 +39,7 @@ class DataScientist:
         self.name = "Ahmed Badi"
         self.role = "Data Scientist & ML Engineer"
         self.education = "ISIMA - Optimisation et Intelligence Artificielle"
-        self.location = "Algeria"
+        self.location = "France"
         self.languages = ["Python", "Java", "SQL", "R"]
         
     def say_hi(self):
